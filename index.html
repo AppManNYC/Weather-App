@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>MK's Weather App</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <script type="text/javascript" src="https://use.fontawesome.com/8a5fa0ac68.js"></script> 
+        <script type="text/javascript" src="script.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <div id="background" class="jumbotron">
+                <div class="row text-center">
+                    <div class="col-md-12">
+                        <h1 id="temperature"></h1>
+                    </div>
+                </div>
+                <div id="info-div" class="row text-center">
+                    <div class="col-md-4">
+                        <h1 id="location"></h1>
+                    </div>
+                    <div class="col-md-4">
+                        <h1 id="weather"></h1>
+                    </div>
+                    <div class="col-md-4">
+                        <h1 id="wind"></h1>
+                    </div>
+                </div>
+                <div class="row text-center">
+                    <button id="change-scale" class="btn-lg btn-default"><i style="margin-right: 20px" class="fa fa-thermometer-empty" aria-hidden="true"></i>Toggle Fahrenheit / Celsius</button>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

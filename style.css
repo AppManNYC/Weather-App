@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#info-div h1 {
+    font-size: 30px;
+}
+
+#info-div div {
+	margin: 30px auto;
+}
+
+button {
+	width: 30%;
+}
+
+#background {
+	color: white;
+	margin-top: 50px;
+	min-height: 600px;
+	background-size: cover;
+	background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/rNrXtV_4liwz7cbs5/lifeguard-station-on-tropical-honolulu-beach-in-hawaii-with-clean-sand-and-perfect-sunshine-weather_slkabdblg_thumbnail-full15.png');
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
