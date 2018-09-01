@@ -3,6 +3,5 @@ Local Weather App using JavaScript and Open Weather API. Users can see local wea
 
 Screenshots:
 =======
-![screenshot - weatherapp fahrenheit](https://user-images.githubusercontent.com/11365270/44869508-c1e7de80-ac5b-11e8-82ba-a0b88dc3543d.png)
-![screenshot - weatherapp celsius](https://user-images.githubusercontent.com/11365270/44869550-de841680-ac5b-11e8-838f-568ba535e56c.png)
-<hr>
+![screen shot 2018-09-01 at 12 11 12 pm](https://user-images.githubusercontent.com/11365270/44947766-42374c80-ade0-11e8-88ac-7c8d95aa98a4.png)
+![screen shot 2018-09-01 at 12 11 33 pm](https://user-images.githubusercontent.com/11365270/44947767-42374c80-ade0-11e8-9f5f-d3ff6f3d1af2.png)
